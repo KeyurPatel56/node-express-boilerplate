@@ -1,0 +1,12 @@
+{
+  "greeting": "¡Hola, Mundo!",
+  "health": "El sistema está saludable.",
+  "userFetched": "Usuario obtenido con éxito.",
+  "usersFetched": "Usuarios obtenidos con éxito.",
+  "userCreated": "Usuario creado con éxito.",
+  "userUpdated": "Usuario actualizado con éxito.",
+  "userDeleted": "Usuario eliminado con éxito.",
+  "loginSuccess": "Inicio de sesión exitoso.",
+  "tokensRefreshed": "Tokens actualizados con éxito.",
+  "missingRefreshToken": "Se requiere un token de actualización."
+}

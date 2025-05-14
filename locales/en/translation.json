@@ -1,0 +1,12 @@
+{
+  "greeting": "Hello, World!",
+  "health": "The system is healthy.",
+  "userFetched": "User fetched successfully.",
+  "usersFetched": "Users fetched successfully.",
+  "userCreated": "User created successfully.",
+  "userUpdated": "User updated successfully.",
+  "userDeleted": "User deleted successfully.",
+  "loginSuccess": "Login successful.",
+  "tokensRefreshed": "Tokens refreshed successfully.",
+  "missingRefreshToken": "Refresh token is required."
+}

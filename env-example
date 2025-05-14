@@ -1,0 +1,8 @@
+# Example environment variables
+PORT=3000
+NODE_ENV=development
+LOG_LEVEL=info
+RATE_LIMIT_WINDOW_MS=60000
+RATE_LIMIT_MAX_REQUESTS=100
+DATABASE_URL=your-database-url-here
+SENTRY_DSN=your-sentry-dsn-here

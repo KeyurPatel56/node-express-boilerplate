@@ -1,0 +1,12 @@
+node_modules/
+dist/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Jest coverage
+coverage/
